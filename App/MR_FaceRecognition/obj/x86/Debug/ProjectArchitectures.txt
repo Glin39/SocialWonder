@@ -1,0 +1,2 @@
+C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\MR_FaceRecognition.csproj;x86
