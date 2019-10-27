@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-26T18:47:17.693</Modified>
+      <Modified>2019-10-27T09:36:26.822</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\MR_FaceRecognition.exe">
       <PackagePath>entrypoint\MR_FaceRecognition.exe</PackagePath>
-      <Modified>2019-10-26T18:46:36.526</Modified>
+      <Modified>2019-10-27T09:36:05.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -505,7 +505,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2019-10-26T16:52:39.838</Modified>
+      <Modified>2019-10-27T09:05:52.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -541,42 +541,6 @@
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-03-22T19:25:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Data\boot.config">
-      <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2019-10-26T16:51:53.196</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Data\globalgamemanagers">
-      <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2019-10-26T16:51:37.181</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Data\level0">
-      <PackagePath>Data\level0</PackagePath>
-      <Modified>2019-10-26T16:51:35.771</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Data\Resources\unity default resources">
-      <PackagePath>Data\Resources\unity default resources</PackagePath>
-      <Modified>2018-03-26T09:30:52.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Data\Resources\unity_builtin_extra">
-      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2019-10-26T16:51:53.190</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Data\globalgamemanagers.assets">
-      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2019-10-26T16:51:37.349</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Data\sharedassets0.assets">
-      <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2019-10-26T16:51:38.845</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Data\level0.resS">
-      <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2019-10-26T16:51:35.767</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Data\managedAssemblies.txt">
-      <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2019-10-26T16:52:39.717</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17134.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
       <Modified>2018-04-20T04:05:16.000</Modified>
@@ -588,227 +552,231 @@
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-26T18:46:39.959</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.TilemapModule.dll">
-      <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:01.762</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.TextRenderingModule.dll">
-      <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:01.830</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.TerrainPhysicsModule.dll">
-      <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:01.883</Modified>
+      <Modified>2019-10-27T09:36:06.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:01.930</Modified>
+      <Modified>2019-10-27T09:36:17.908</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.SharedInternalsModule.dll">
-      <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:01.971</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.TerrainPhysicsModule.dll">
+      <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:17.940</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.SpriteMaskModule.dll">
-      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.026</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.TextRenderingModule.dll">
+      <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:17.971</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.SpriteShapeModule.dll">
-      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.082</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.TilemapModule.dll">
+      <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.134</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UIElementsModule.dll">
-      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityWebRequestWWWModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.346</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.VehiclesModule.dll">
-      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.401</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.VideoModule.dll">
-      <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.470</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.VRModule.dll">
-      <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.589</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.WebModule.dll">
-      <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.669</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.WindModule.dll">
-      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.757</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityWebRequestTextureModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.807</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UIModule.dll">
-      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.873</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UNETModule.dll">
-      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.927</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityAnalyticsModule.dll">
-      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:02.979</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityConnectModule.dll">
-      <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:03.047</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityWebRequestAudioModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:03.125</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityWebRequestModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:03.207</Modified>
+      <Modified>2019-10-27T09:36:18.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:03.301</Modified>
+      <Modified>2019-10-27T09:36:18.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.AssetBundleModule.dll">
-      <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:03.375</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.SharedInternalsModule.dll">
+      <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.101</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.AudioModule.dll">
-      <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:03.450</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.SpriteMaskModule.dll">
+      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.164</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ClothModule.dll">
-      <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:03.535</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.SpriteShapeModule.dll">
+      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.192</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.CoreModule.dll">
-      <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.087</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UIElementsModule.dll">
+      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.CrashReportingModule.dll">
-      <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.277</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityWebRequestWWWModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.294</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.DirectorModule.dll">
-      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.325</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.VehiclesModule.dll">
+      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.325</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ARModule.dll">
-      <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.386</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.VideoModule.dll">
+      <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.399</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.AccessibilityModule.dll">
-      <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.447</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.VRModule.dll">
+      <PackagePath>UnityEngine.VRModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.518</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.AIModule.dll">
-      <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.512</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.WebModule.dll">
+      <PackagePath>UnityEngine.WebModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.599</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.AnimationModule.dll">
-      <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.649</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.WindModule.dll">
+      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.669</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.dll">
-      <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2019-10-26T16:52:14.840</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityWebRequestTextureModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ParticlesLegacyModule.dll">
-      <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.731</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UIModule.dll">
+      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ParticleSystemModule.dll">
-      <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.812</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UNETModule.dll">
+      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.787</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.PerformanceReportingModule.dll">
-      <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.881</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityAnalyticsModule.dll">
+      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.820</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.Physics2DModule.dll">
-      <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:04.950</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityConnectModule.dll">
+      <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityWebRequestAudioModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UnityWebRequestModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.916</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:05.013</Modified>
+      <Modified>2019-10-27T09:36:18.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ARModule.dll">
+      <PackagePath>UnityEngine.ARModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:18.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.AssetBundleModule.dll">
+      <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.AudioModule.dll">
+      <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ClothModule.dll">
+      <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.CoreModule.dll">
+      <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.CrashReportingModule.dll">
+      <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.AnimationModule.dll">
+      <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.AccessibilityModule.dll">
+      <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.AIModule.dll">
+      <PackagePath>UnityEngine.AIModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.DirectorModule.dll">
+      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:05.068</Modified>
+      <Modified>2019-10-27T09:36:19.733</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.GameCenterModule.dll">
-      <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:05.121</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ParticlesLegacyModule.dll">
+      <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.778</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.GridModule.dll">
-      <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:05.171</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ParticleSystemModule.dll">
+      <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ImageConversionModule.dll">
-      <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:05.223</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.PerformanceReportingModule.dll">
+      <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.897</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.IMGUIModule.dll">
-      <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:05.305</Modified>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.Physics2DModule.dll">
+      <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:19.955</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2019-10-26T18:47:05.363</Modified>
+      <Modified>2019-10-27T09:36:20.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+      <Modified>2019-10-27T09:05:28.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.GameCenterModule.dll">
+      <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:20.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.GridModule.dll">
+      <PackagePath>UnityEngine.GridModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:20.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.ImageConversionModule.dll">
+      <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:20.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.IMGUIModule.dll">
+      <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
+      <Modified>2019-10-27T09:36:20.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2019-10-26T18:47:05.493</Modified>
+      <Modified>2019-10-27T09:36:20.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\HoloLensCameraStream.dll">
+      <PackagePath>HoloLensCameraStream.dll</PackagePath>
+      <Modified>2019-10-27T09:36:20.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2019-10-26T18:47:05.663</Modified>
+      <Modified>2019-10-27T09:36:20.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2019-10-26T18:47:05.927</Modified>
+      <Modified>2019-10-27T09:36:20.598</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2019-10-26T18:47:06.096</Modified>
+      <Modified>2019-10-27T09:36:20.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2019-10-26T18:47:06.188</Modified>
+      <Modified>2019-10-27T09:36:20.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2019-10-26T18:47:06.320</Modified>
+      <Modified>2019-10-27T09:36:20.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2019-10-26T18:47:06.446</Modified>
+      <Modified>2019-10-27T09:36:20.803</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2019-10-26T18:47:06.740</Modified>
+      <Modified>2019-10-27T09:36:20.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2019-10-26T18:47:01.691</Modified>
+      <Modified>2019-10-27T09:36:17.864</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\Core\MR_FaceRecognition.exe">
       <PackagePath>MR_FaceRecognition.exe</PackagePath>
-      <Modified>2019-10-26T18:47:17.687</Modified>
+      <Modified>2019-10-27T09:36:26.818</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

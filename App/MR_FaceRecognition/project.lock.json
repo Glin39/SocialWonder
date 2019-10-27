@@ -15975,6 +15975,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\georg\\AppData\\Local\\Esri\\NuGet": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

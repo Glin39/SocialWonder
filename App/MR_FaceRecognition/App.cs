@@ -20,6 +20,7 @@ namespace MR_FaceRecognition
 
             // Allow clients of this class to append their own callbacks.
             AddAppCallbacks(m_AppCallbacks);
+       
         }
 
         public virtual void Initialize(CoreApplicationView applicationView)
@@ -53,9 +54,7 @@ namespace MR_FaceRecognition
 
         public void SetWindow(CoreWindow coreWindow)
         {
-            //ApplicationView.GetForCurrentView().SuppressSystemOverlays = true;
-            ApplicationView.GetForCurrentView().TryEnterFullScreenMode();
-            //ApplicationView.GetForCurrentView().IsFullScreenMode;
+            ApplicationView.GetForCurrentView().SuppressSystemOverlays = true;
 
             m_AppCallbacks.SetCoreWindowEvents(coreWindow);
             m_AppCallbacks.InitializeD3DWindow();

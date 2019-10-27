@@ -1,3 +1,5 @@
+C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\MR_FaceRecognition.csprojAssemblyReference.cache
+C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\MR_FaceRecognition.csproj.CoreCompileInputs.cache
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\MR_FaceRecognition.exe
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\MR_FaceRecognition.pdb
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\resources.pri
@@ -232,8 +234,6 @@ C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\B
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\UnityEngineDelegates.dll
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\UnityEngineDelegates.pdb
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\UnityEngineProxy.pdb
-C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\MR_FaceRecognition.csprojAssemblyReference.cache
-C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\MR_FaceRecognition.csproj.CoreCompileInputs.cache
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\MR_FaceRecognition.csproj.CopyComplete
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\MR_FaceRecognition.exe
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\MR_FaceRecognition.pdb
@@ -307,3 +307,6 @@ C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\q
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\HoloLensCameraStream.dll
+C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\bin\x86\Debug\HoloLensCameraStream.pdb
+C:\Users\georg\Desktop\MR_FaceRecognition\App\MR_FaceRecognition\obj\x86\Debug\MR_FaceRecognition.csproj.GenerateResource.Cache

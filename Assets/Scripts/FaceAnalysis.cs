@@ -35,13 +35,23 @@ public class FaceAnalysis : MonoBehaviour {
     /// <summary>
     /// Auth key of Face Recognition Service
     /// </summary>
-    private const string key = "8ea7cd23867d4233b9ac1b14dac13234";
+    private const string key = "";
 
     /// <summary>
     /// Id (name) of the created person group 
     /// </summary>
-    private const string personGroupId = "holohack";
+    private const string personGroupId = "";
 
+    //People
+    GameObject Andrew;
+    GameObject Tanmoy;
+    GameObject Jon;
+
+    //Model & Load
+    GameObject modelA;
+    GameObject modelT;
+    GameObject modelJ;
+    GameObject star;
     /// <summary>
     /// Initialises this class
     /// </summary>
@@ -55,6 +65,22 @@ public class FaceAnalysis : MonoBehaviour {
 
         // Create the text label in the scene
         CreateLabel();
+
+        //Set everyone's profiles to false
+        Andrew = GameObject.Find("Andrew Chang");
+        Andrew.SetActive(false);
+        Tanmoy = GameObject.Find("Tanmoy Panigrahi");
+        Tanmoy.SetActive(false);
+        Jon = GameObject.Find("Jon Womack");
+        Jon.SetActive(false);
+        modelA = GameObject.Find("Model2_0");
+        modelA.SetActive(false);
+        modelT = GameObject.Find("model3_0");
+        modelT.SetActive(false);
+        modelJ = GameObject.Find("model4_0");
+        modelJ.SetActive(false);
+        //star = GameObject.Find("Star Generator Crazy 1");
+        //star.SetActive(false);
     }
 
     /// <summary>
@@ -123,6 +149,7 @@ public class FaceAnalysis : MonoBehaviour {
     /// </summary>
     static byte[] GetImageAsByteArray(string imageFilePath)
     {
+        Debug.Log(imageFilePath);
         FileStream fileStream = new FileStream(imageFilePath, FileMode.Open, FileAccess.Read);
         BinaryReader binaryReader = new BinaryReader(fileStream);
         return binaryReader.ReadBytes((int)fileStream.Length);
@@ -133,45 +160,51 @@ public class FaceAnalysis : MonoBehaviour {
     /// </summary>
     internal IEnumerator IdentifyFaces(List<string> listOfFacesIdToIdentify)
     {
-        // Create the object hosting the faces to identify
-        FacesToIdentify_RootObject facesToIdentify = new FacesToIdentify_RootObject();
-        facesToIdentify.faceIds = new List<string>();
-        facesToIdentify.personGroupId = personGroupId;
-        foreach (string facesId in listOfFacesIdToIdentify)
+        if (listOfFacesIdToIdentify.Count != 0)
         {
-            facesToIdentify.faceIds.Add(facesId);
-        }
-        facesToIdentify.maxNumOfCandidatesReturned = 1;
-        facesToIdentify.confidenceThreshold = 0.5;
-
-        // Serialise to Json format
-        string facesToIdentifyJson = JsonConvert.SerializeObject(facesToIdentify);
-        // Change the object into a bytes array
-        byte[] facesData = Encoding.UTF8.GetBytes(facesToIdentifyJson);
-
-        WWWForm webForm = new WWWForm();
-        string detectFacesEndpoint = $"{baseEndpoint}identify";
-
-        using (UnityWebRequest www = UnityWebRequest.Post(detectFacesEndpoint, webForm))
-        {
-            www.SetRequestHeader("Ocp-Apim-Subscription-Key", key);
-            www.SetRequestHeader("Content-Type", "application/json");
-            www.uploadHandler.contentType = "application/json";
-            www.uploadHandler = new UploadHandlerRaw(facesData);
-            www.downloadHandler = new DownloadHandlerBuffer();
-
-            yield return www.SendWebRequest();
-            string jsonResponse = www.downloadHandler.text;
-            Debug.Log($"Get Person - jsonResponse: {jsonResponse}");
-            Candidate_RootObject[] candidate_RootObject = JsonConvert.DeserializeObject<Candidate_RootObject[]>(jsonResponse);
-
-            // For each face to identify that ahs been submitted, display its candidate
-            foreach (Candidate_RootObject candidateRO in candidate_RootObject)
+            // Create the object hosting the faces to identify
+            FacesToIdentify_RootObject facesToIdentify = new FacesToIdentify_RootObject();
+            facesToIdentify.faceIds = new List<string>();
+            facesToIdentify.personGroupId = personGroupId;
+            foreach (string facesId in listOfFacesIdToIdentify)
             {
-                StartCoroutine(GetPerson(candidateRO.candidates[0].personId));
+                facesToIdentify.faceIds.Add(facesId);
+            }
+            facesToIdentify.maxNumOfCandidatesReturned = 1;
+            facesToIdentify.confidenceThreshold = 0.5;
 
-                // Delay the next "GetPerson" call, so all faces candidate are displayed properly
-                yield return new WaitForSeconds(3);
+            // Serialise to Json format
+            string facesToIdentifyJson = JsonConvert.SerializeObject(facesToIdentify);
+            // Change the object into a bytes array
+            byte[] facesData = Encoding.UTF8.GetBytes(facesToIdentifyJson);
+            Debug.Log(facesData);
+            Debug.Log(facesToIdentifyJson);
+
+            WWWForm webForm = new WWWForm();
+            string detectFacesEndpoint = $"{baseEndpoint}identify";
+
+            using (UnityWebRequest www = UnityWebRequest.Post(detectFacesEndpoint, webForm))
+            {
+                www.SetRequestHeader("Ocp-Apim-Subscription-Key", key);
+                www.SetRequestHeader("Content-Type", "application/json");
+                www.uploadHandler.contentType = "application/json";
+                www.uploadHandler = new UploadHandlerRaw(facesData);
+                www.downloadHandler = new DownloadHandlerBuffer();
+
+                yield return www.SendWebRequest();
+                string jsonResponse = www.downloadHandler.text;
+                Debug.Log($"Get Person - jsonResponse: {jsonResponse}");
+                Candidate_RootObject[] candidate_RootObject = JsonConvert.DeserializeObject<Candidate_RootObject[]>(jsonResponse);
+
+                // For each face to identify that ahs been submitted, display its candidate
+                foreach (Candidate_RootObject candidateRO in candidate_RootObject)
+                {
+                    StartCoroutine(GetPerson(candidateRO.candidates[0].personId));
+                    Debug.Log("Get Person" + GetPerson(candidateRO.candidates[0].personId));
+
+                    // Delay the next "GetPerson" call, so all faces candidate are displayed properly
+                    yield return new WaitForSeconds(3);
+                }
             }
         }
     }
@@ -193,9 +226,36 @@ public class FaceAnalysis : MonoBehaviour {
 
             Debug.Log($"Get Person - jsonResponse: {jsonResponse}");
             IdentifiedPerson_RootObject identifiedPerson_RootObject = JsonConvert.DeserializeObject<IdentifiedPerson_RootObject>(jsonResponse);
-
+            //star.SetActive(false);
             // Display the name of the person in the UI
-            labelText.text = identifiedPerson_RootObject.name;
+            if (identifiedPerson_RootObject.name.Equals("Andrew Chang"))
+            {
+                Tanmoy.SetActive(false);
+                Jon.SetActive(false);
+                modelT.SetActive(false);
+                modelJ.SetActive(false);
+                Andrew.SetActive(true);
+                modelA.SetActive(true);
+
+            } else if(identifiedPerson_RootObject.name.Equals("Tanmoy Panigrahi"))
+            {
+                Jon.SetActive(false);
+                Andrew.SetActive(false);
+                modelA.SetActive(false);
+                modelJ.SetActive(false);
+                Tanmoy.SetActive(true);
+                modelT.SetActive(true);
+            }
+            else if (identifiedPerson_RootObject.name.Equals("Jon Womack"))
+            {
+                Andrew.SetActive(false);
+                Tanmoy.SetActive(false);
+                modelT.SetActive(false);
+                modelA.SetActive(false);
+                Jon.SetActive(true);
+                modelJ.SetActive(true);
+            }
+            //labelText.text = identifiedPerson_RootObject.name;
         }
     }
 

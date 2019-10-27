@@ -1,0 +1,2717 @@
+newmtl CityEngineMaterial_241
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_all_14x14m.jpg
+
+newmtl CityEngineMaterial_189
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_121_floors3_tiles7_day.jpg
+
+newmtl CityEngineMaterial_126
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_106_floors2_tiles2_day.jpg
+
+newmtl CityEngineMaterial_154
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_251_floors2_tiles2_day.jpg
+
+newmtl CityEngineMaterial_118
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd metallicRoof_6.jpg
+
+newmtl CityEngineMaterial_150
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_108_floors5_tiles3_day.jpg
+
+newmtl CityEngineMaterial_222
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_17_floors4_tiles9_day.jpg
+
+newmtl CityEngineMaterial_212
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_24_floors60_tiles24_day.jpg
+
+newmtl CityEngineMaterial_133
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_114_floors10_tiles2_day.jpg
+
+newmtl CityEngineMaterial_54
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 9C6BF5785BE00473737993D0FC1D996A.jpg
+
+newmtl CityEngineMaterial_153
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_4.jpg
+
+newmtl CityEngineMaterial_148
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_122_floors2_tiles4_day.jpg
+
+newmtl CityEngineMaterial_184
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_28_floors60_tiles16_day.jpg
+
+newmtl CityEngineMaterial_93
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_255_floors2_tiles1_day.jpg
+
+newmtl CityEngineMaterial_216
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_26_floors60_tiles10_day.jpg
+
+newmtl CityEngineMaterial_224
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_102_floors2_tiles2_day.jpg
+
+newmtl CityEngineMaterial_170
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_120_floors2_tiles3_day.jpg
+
+newmtl CityEngineMaterial_40
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 09AD83475CCD6D7C1F0799A93920A5C8.jpg
+
+newmtl CityEngineMaterial_125
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_229_floors5_tiles7_day.jpg
+
+newmtl CityEngineMaterial_94
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_7.jpg
+
+newmtl CityEngineMaterial_22
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 7A128C3140F03D51ACE17564256CFA28.jpg
+
+newmtl CityEngineMaterial_20
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 45ABE2D500389CA107A01C3C1A8BE0F7.jpg
+
+newmtl CityEngineMaterial_215
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd u_floors64_tiles8_Residential_000.jpg
+
+newmtl CityEngineMaterial_185
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_101_floors10_tiles4_day.jpg
+
+newmtl CityEngineMaterial_141
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_31_floors2_tiles2_day.jpg
+
+newmtl CityEngineMaterial_165
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_32_floors2_tiles5_day.jpg
+
+newmtl CityEngineMaterial_8
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 06A8E88BC8E95396DEF7501680115C0D.jpg
+
+newmtl CityEngineMaterial_32
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 00696CA24E6DDC55ACF4FEBF01FFBB63.jpg
+
+newmtl CityEngineMaterial_41
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd A5A05C3910EFE746768B92C08EDA57CE.jpg
+
+newmtl CityEngineMaterial_68
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 77DAECD5A4B4A737794265DEC2239BE1.jpg
+
+newmtl CityEngineMaterial_65
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd AE325A9E33FC7A164B05987E2DDC9D78.jpg
+
+newmtl CityEngineMaterial_162
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_110_floors1_tiles2_day.jpg
+
+newmtl CityEngineMaterial_91
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_215_floors5_tiles3_day.jpg
+
+newmtl CityEngineMaterial_226
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_208_floors9_tiles23_day.jpg
+
+newmtl CityEngineMaterial_86
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd C4DAB4DB87A773E68C51E3A843E95AB6.jpg
+
+newmtl CityEngineMaterial_234
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd asphalt_painted_white_7x7m.jpg
+
+newmtl CityEngineMaterial_71
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 1802805F07BB987F277BE5DF737C4941.jpg
+
+newmtl CityEngineMaterial_186
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_107_floors4_tiles12_day.jpg
+
+newmtl CityEngineMaterial_243
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd centerline_single_white_14m.jpg
+
+newmtl CityEngineMaterial_179
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_25_floors60_tiles12_day.jpg
+
+newmtl CityEngineMaterial_58
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd D71370421AF8545B36E708B146A81B41.jpg
+
+newmtl CityEngineMaterial_219
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_111_floors6_tiles8_day.jpg
+
+newmtl CityEngineMaterial_190
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_217_floors4_tiles3_day.jpg
+
+newmtl CityEngineMaterial_121
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_103_floors6_tiles4_day.jpg
+
+newmtl CityEngineMaterial_152
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_119_floors3_tiles3_day.jpg
+
+newmtl CityEngineMaterial_238
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_word_14x14m.jpg
+
+newmtl CityEngineMaterial_33
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd C8DE35C55C88FA121F51DC8BC256BA65.jpg
+
+newmtl CityEngineMaterial_151
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_11.jpg
+
+newmtl CityEngineMaterial_64
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 45F9310F04CD6CC15EECD173CA3C4D97.jpg
+
+newmtl CityEngineMaterial_17
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 377778CD98BD8605FE6029D16AF8CDE1.jpg
+
+newmtl CityEngineMaterial_99
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_112_floors2_tiles4_day.jpg
+
+newmtl CityEngineMaterial_23
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd DE21094F6FC21FE3038E983FB029B264.jpg
+
+newmtl CityEngineMaterial_30
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 6E51D79B23D2BF3DF3F23EA1092611EE.jpg
+
+newmtl CityEngineMaterial_187
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_113_floors3_tiles1_day.jpg
+
+newmtl CityEngineMaterial_177
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_205_floors5_tiles5_day.jpg
+
+newmtl CityEngineMaterial_135
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_38_floors2_tiles2_day.jpg
+
+newmtl CityEngineMaterial_221
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_203_floors22_tiles10_day.jpg
+
+newmtl CityEngineMaterial_174
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_111_floors3_tiles3_day.jpg
+
+newmtl CityEngineMaterial_63
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 43FD32A09E98A6BF9BD646F4C9FF435D.jpg
+
+newmtl CityEngineMaterial_106
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd metallicRoof_3.jpg
+
+newmtl CityEngineMaterial_157
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_113_floors2_tiles1_day.jpg
+
+newmtl CityEngineMaterial_201
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_18_floors3_tiles13_day.jpg
+
+newmtl CityEngineMaterial_7
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 7E97FB21EBCC3522F188FA7BE0AB4941.jpg
+
+newmtl CityEngineMaterial_159
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd metallicRoof_4.jpg
+
+newmtl CityEngineMaterial_167
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_211_floors2_tiles1_day.jpg
+
+newmtl CityEngineMaterial_240
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_14x14m.jpg
+
+newmtl CityEngineMaterial_207
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_116_floors5_tiles4_day.jpg
+
+newmtl CityEngineMaterial_227
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_109_floors3_tiles3_day.jpg
+
+newmtl CityEngineMaterial_119
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_268_floors3_tiles3_day.jpg
+
+newmtl CityEngineMaterial_217
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_3.jpg
+
+newmtl CityEngineMaterial_145
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_226_floors14_tiles8_day.jpg
+
+newmtl CityEngineMaterial_117
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_101_floors1_tiles4_day.jpg
+
+newmtl CityEngineMaterial_171
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_247_floors6_tiles6_day.jpg
+
+newmtl CityEngineMaterial_191
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_120_floors6_tiles6_day.jpg
+
+newmtl CityEngineMaterial_5
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd C073A73E21E4284EA558B8B259DC7D9A.jpg
+
+newmtl CityEngineMaterial_82
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd F75BFB26D18D6DC9921036661E31B2F5.jpg
+
+newmtl CityEngineMaterial_183
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_110_floors5_tiles2_day.jpg
+
+newmtl CityEngineMaterial_31
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd D624B1D0DEE9FE9C0F4A596D5BB1D6D6.jpg
+
+newmtl CityEngineMaterial_205
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_119_floors9_tiles4_day.jpg
+
+newmtl CityEngineMaterial_75
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 0FA341C7D56A6DF350311959830F9C70.jpg
+
+newmtl CityEngineMaterial_231
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd asphalt_14x14m.jpg
+
+newmtl CityEngineMaterial_15
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd C1FBA85FB5E1DB25A85B719F1D663AFC.jpg
+
+newmtl CityEngineMaterial_28
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 737BF119F95FC78694ECB2B9D4F756C0.jpg
+
+newmtl CityEngineMaterial_203
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_118_floors9_tiles5_day.jpg
+
+newmtl CityEngineMaterial_188
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_willis_floors120_tiles26_day.jpg
+
+newmtl CityEngineMaterial_98
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_13.jpg
+
+newmtl CityEngineMaterial_198
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_218_floors4_tiles2_day.jpg
+
+newmtl CityEngineMaterial_42
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 4882CFF174671F42E7746FA979B88366.jpg
+
+newmtl CityEngineMaterial_155
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_223_floors3_tiles2_day.jpg
+
+newmtl CityEngineMaterial_84
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 298BD95E7CEA6485EFF2272BB2AC6D1A.jpg
+
+newmtl CityEngineMaterial_102
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_5.jpg
+
+newmtl CityEngineMaterial_110
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_1.jpg
+
+newmtl CityEngineMaterial_35
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 0C785ABCEB0B904F1F4A233A2581F93B.jpg
+
+newmtl CityEngineMaterial_56
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd F9E841C59F5BA1D3B31555B3FA7B1F96.jpg
+
+newmtl CityEngineMaterial_114
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_1.jpg
+
+newmtl CityEngineMaterial_96
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_9.jpg
+
+newmtl CityEngineMaterial_180
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_105_floors9_tiles3_day.jpg
+
+newmtl CityEngineTerrainMaterial
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd SNDG_0007_0002.tif
+
+newmtl CityEngineMaterial_204
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_104_floors21_tiles12_day.jpg
+
+newmtl CityEngineMaterial_164
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_220_floors12_tiles6_day.jpg
+
+newmtl CityEngineMaterial_3
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 91E0B95B921601846B63C9B94CD0923C.jpg
+
+newmtl CityEngineMaterial_229
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_27_floors60_tiles6_day.jpg
+
+newmtl CityEngineMaterial_139
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_260_floors8_tiles12_day.jpg
+
+newmtl CityEngineMaterial_11
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 79A6BAB371AB91C026A81B4A33ABF71C.jpg
+
+newmtl CityEngineMaterial_37
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd F895D9D7BBA18E6AF146EE6E9AB3B061.jpg
+
+newmtl CityEngineMaterial_9
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd CF587A0E4867C67189E035395B030F58.jpg
+
+newmtl CityEngineMaterial_61
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 185EADB2A7DE6AC035E71E6566C166FB.jpg
+
+newmtl CityEngineMaterial_73
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd B3AAB840C59C59D5D83C40DC4D48D59E.jpg
+
+newmtl CityEngineMaterial_206
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_21_floors5_tiles9_day.jpg
+
+newmtl CityEngineMaterial_235
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd crosswalk_continental_white.jpg
+
+newmtl CityEngineMaterial_136
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_243_floors5_tiles2_day.jpg
+
+newmtl CityEngineMaterial_36
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 0A3767E566A5D5D65B8964EB92EF9AFF.jpg
+
+newmtl CityEngineMaterial_232
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd curbs_2m.jpg
+
+newmtl CityEngineMaterial_27
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd C8D9FBB6618B7B4F1141B14A19ACBAB1.jpg
+
+newmtl CityEngineMaterial_127
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_10.jpg
+
+newmtl CityEngineMaterial_67
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd D07C21321C5FD7E76CD3DA419460F3B1.jpg
+
+newmtl CityEngineMaterial_149
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_5.jpg
+
+newmtl CityEngineMaterial_233
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd pavement_01_2x2m.jpg
+
+newmtl CityEngineMaterial_72
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 7E8A0DABC6763C5C93F1A4A9D55D9A4E.jpg
+
+newmtl CityEngineMaterial_178
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_102_floors2_tiles2_day_1.jpg
+
+newmtl CityEngineMaterial_225
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_112_floors3_tiles3_day.jpg
+
+newmtl CityEngineMaterial_24
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 9990C01DA2C0E6BD0CF36D48ADD4143B.jpg
+
+newmtl CityEngineMaterial_146
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_13_floors5_tiles7_day.jpg
+
+newmtl CityEngineMaterial_116
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd metallicRoof_7.jpg
+
+newmtl CityEngineMaterial_101
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_245_floors2_tiles8_day.jpg
+
+newmtl CityEngineMaterial_236
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd centerline_double_white_14m.jpg
+
+newmtl CityEngineMaterial_176
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_109_floors1_tiles4_day.jpg
+
+newmtl CityEngineMaterial_242
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd centerline_stripes_white_14m.jpg
+
+newmtl CityEngineMaterial_197
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_09_floors7_tiles4_day.jpg
+
+newmtl CityEngineMaterial
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 99288F506EC1D4C32CFA31A0381E23A8.jpg
+
+newmtl CityEngineMaterial_138
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_244_floors3_tiles8_day.jpg
+
+newmtl CityEngineMaterial_137
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_4.jpg
+
+newmtl CityEngineMaterial_51
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd CBDA4593138EB234038A3F168F87FC0A.jpg
+
+newmtl CityEngineMaterial_108
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_12.jpg
+
+newmtl CityEngineMaterial_199
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_07_floors4_tiles7_day.jpg
+
+newmtl CityEngineMaterial_120
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd metallicRoof_2.jpg
+
+newmtl CityEngineMaterial_87
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd AB33ECD304167E8F9A6420AB24119027.jpg
+
+newmtl CityEngineMaterial_60
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 9240384EBD127072AD0E262D0FF04824.jpg
+
+newmtl CityEngineMaterial_210
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_213_floors4_tiles18_day.jpg
+
+newmtl CityEngineMaterial_44
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 967F3BA38C923E878B9CBF30E7065971.jpg
+
+newmtl CityEngineMaterial_105
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_28_floors60_tiles16_day.jpg
+
+newmtl CityEngineMaterial_107
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_109_floors7_tiles2_day.jpg
+
+newmtl CityEngineMaterial_95
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_222_floors3_tiles7_day.jpg
+
+newmtl CityEngineMaterial_129
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd metallicRoof_5.jpg
+
+newmtl CityEngineMaterial_168
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_121_floors2_tiles4_day.jpg
+
+newmtl CityEngineMaterial_81
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 8AEB5FF271E2AE9A2F301E9D97A3916D.jpg
+
+newmtl CityEngineMaterial_76
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 91F0F75B9F719B44BC1CAF0352570991.jpg
+
+newmtl CityEngineMaterial_194
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_106_floors3_tiles2_day.jpg
+
+newmtl CityEngineMaterial_10
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 160C31EF770DEFF151247A3AE3859244.jpg
+
+newmtl CityEngineMaterial_50
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd F0C061EA8DEEC69355C54C0E3573D6C0.jpg
+
+newmtl CityEngineMaterial_19
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 323018D4900AA4D24BFF20EC46F21AC5.jpg
+
+newmtl CityEngineMaterial_173
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_6.jpg
+
+newmtl CityEngineMaterial_47
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 897020030D8BA0E7F57FCF773126C016.jpg
+
+newmtl CityEngineMaterial_12
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 067F5C52F800E7ACC9596F055CECABD5.jpg
+
+newmtl CityEngineMaterial_144
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_3.jpg
+
+newmtl CityEngineMaterial_89
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 510FCFC56F656702306B1BB22474BA56.jpg
+
+newmtl CityEngineMaterial_1
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd EC153B3DE5DF14B8C6F77C1055561E58.jpg
+
+newmtl CityEngineMaterial_160
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_34_floors2_tiles2_day.jpg
+
+newmtl CityEngineMaterial_45
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd EB156B3F30E20CB33D2A8107860DE98C.jpg
+
+newmtl CityEngineMaterial_55
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd FE46C77AED394C0D2425C763092706AE.jpg
+
+newmtl CityEngineMaterial_244
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd unknownasset.png
+
+newmtl CityEngineMaterial_103
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_249_floors4_tiles6_day.jpg
+
+newmtl CityEngineMaterial_39
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 3BC99ECF83327CA6B6D52D90A59717C2.jpg
+
+newmtl CityEngineMaterial_109
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_105_floors1_tiles3_day.jpg
+
+newmtl CityEngineMaterial_172
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_202_floors8_tiles4.jpg
+
+newmtl CityEngineMaterial_158
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_36_floors2_tiles5_day.jpg
+
+newmtl CityEngineMaterial_218
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_259_floors15_tiles19_day.jpg
+
+newmtl CityEngineMaterial_59
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd AB88C085507ECF04D34616D944CC62EA.jpg
+
+newmtl CityEngineMaterial_202
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_117_floors7_tiles3_day.jpg
+
+newmtl CityEngineMaterial_111
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_235_floors10_tiles6_day.jpg
+
+newmtl CityEngineMaterial_142
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_252_floors2_tiles2_day.jpg
+
+newmtl CityEngineMaterial_195
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_115_floors4_tiles7_day.jpg
+
+newmtl CityEngineMaterial_34
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 9F203DBDFE18560AC764726FBE08C061.jpg
+
+newmtl CityEngineMaterial_193
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_108_floors3_tiles3_day.jpg
+
+newmtl CityEngineMaterial_80
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 768A8DA9558DE97F6FB4DCC8FC7B7F8E.jpg
+
+newmtl CityEngineMaterial_209
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_05_floors7_tiles17_day.jpg
+
+newmtl CityEngineMaterial_104
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_6.jpg
+
+newmtl CityEngineMaterial_239
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd centerline_double_yellow_14m.jpg
+
+newmtl CityEngineMaterial_92
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_8.jpg
+
+newmtl CityEngineMaterial_29
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd DA5052740D06C859C44EB0E701549688.jpg
+
+newmtl CityEngineMaterial_112
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ceramicRoof_2.jpg
+
+newmtl CityEngineMaterial_6
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 807B6D9BF8ED738E545A2B3F29B41CD3.jpg
+
+newmtl CityEngineMaterial_166
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_42_floors2_tiles3_day.jpg
+
+newmtl CityEngineMaterial_130
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_231_floors7_tiles8_day.jpg
+
+newmtl CityEngineMaterial_90
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd AC0C2861F14D645B97F8F4BB4F7ED61A.jpg
+
+newmtl CityEngineMaterial_70
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 5C99234D248182D26EED938E7EC8F1AA.jpg
+
+newmtl CityEngineMaterial_169
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_110_floors7_tiles8_day.jpg
+
+newmtl CityEngineMaterial_85
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd CAD17D9C13A9DDDB03250E8E3674FDC5.jpg
+
+newmtl CityEngineMaterial_123
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_111_floors1_tiles1_day.jpg
+
+newmtl CityEngineMaterial_77
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 100C569FB158771108BF9E5D5DAB6A03.jpg
+
+newmtl CityEngineMaterial_49
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 15C762FD5F57C9C45201295ECC0D71F7.jpg
+
+newmtl CityEngineMaterial_53
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 2BEEDAED6AB559C310DDA23231541416.jpg
+
+newmtl CityEngineMaterial_74
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 0D1707DA37EB14F6501F2A3D74E01EFF.jpg
+
+newmtl CityEngineMaterial_124
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_104_floors3_tiles4_day.jpg
+
+newmtl CityEngineMaterial_228
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_12_floors5_tiles9_day.jpg
+
+newmtl CityEngineMaterial_21
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 847115DF860FEEEB373BDD3D3ACFD5B3.jpg
+
+newmtl CityEngineMaterial_196
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_114_floors5_tiles5_day.jpg
+
+newmtl CityEngineMaterial_192
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_209_floors4_tiles16_day.jpg
+
+newmtl CityEngineMaterial_13
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 0F1942088AD54369EA02C6D9E22FE226.jpg
+
+newmtl CityEngineMaterial_115
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_101_floors3_tiles4_day.jpg
+
+newmtl CityEngineMaterial_245
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_sides_14x14m.jpg
+
+newmtl CityEngineMaterial_113
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_224_floors2_tiles2_day.jpg
+
+newmtl CityEngineMaterial_143
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_236_floors2_tiles9_day.jpg
+
+newmtl CityEngineMaterial_25
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 0B9DA29F8007ABF8C2B3C24E73B18977.jpg
+
+newmtl CityEngineMaterial_46
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 56E6178ED7D6BE7F9BB2D23F05E8AAD9.jpg
+
+newmtl CityEngineMaterial_88
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd A32FF7BA82C1047665C91A1B036743CF.jpg
+
+newmtl CityEngineMaterial_131
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_212_floors8_tiles9_day.jpg
+
+newmtl CityEngineMaterial_26
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 5DE3B59FB5A02372FFF012E318C92F6F.jpg
+
+newmtl CityEngineMaterial_52
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd EA79D9BE1ABD8003E6314859B4CA38A0.jpg
+
+newmtl CityEngineMaterial_223
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_122_floors12_tiles6_day.jpg
+
+newmtl CityEngineMaterial_38
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd DEB5C5F61D8E96C090679BF562356107.jpg
+
+newmtl CityEngineMaterial_43
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd EAAB917FB8904A639A76FD4F2B0F393A.jpg
+
+newmtl CityEngineMaterial_66
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd F295738CA5C20C8966479F1DCFDC3316.jpg
+
+newmtl CityEngineMaterial_156
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_113_floors7_tiles4_day.jpg
+
+newmtl CityEngineMaterial_200
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_04_floors5_tiles13_day.jpg
+
+newmtl CityEngineMaterial_214
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_22_floors60_tiles33_day.jpg
+
+newmtl CityEngineMaterial_83
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 1F7D777D69D7D49815181D8BC90751BA.jpg
+
+newmtl CityEngineMaterial_69
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 22EBCBDA9D022FCBA743F3A125BF7B8D.jpg
+
+newmtl CityEngineMaterial_220
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_03_floors5_tiles5_day.jpg
+
+newmtl CityEngineMaterial_4
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 6B30DECF568B9163830169D4B63052C4.jpg
+
+newmtl CityEngineMaterial_79
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd A44350642ADD3AED071F8237679527A9.jpg
+
+newmtl CityEngineMaterial_208
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_11_floors5_tiles9_day.jpg
+
+newmtl CityEngineMaterial_57
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 672D80F0AAE9FA5E0036BB308B4DA5CE.jpg
+
+newmtl CityEngineMaterial_175
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_267_floors13_tiles9_day.jpg
+
+newmtl CityEngineMaterial_181
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_263_floors5_tiles6_day.jpg
+
+newmtl CityEngineMaterial_2
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 3858E60A3DA5179D1F2A93FC57FF417B.jpg
+
+newmtl CityEngineMaterial_14
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd B1519679FCDFAB3786DE29C1C239E186.jpg
+
+newmtl CityEngineMaterial_18
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 543DE4B4DB1F4A640BAEF47E1164FC06.jpg
+
+newmtl CityEngineMaterial_128
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_37_floors2_tiles2_day.jpg
+
+newmtl CityEngineMaterial_100
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_2.jpg
+
+newmtl CityEngineMaterial_213
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_228_floors9_tiles10_day.jpg
+
+newmtl CityEngineMaterial_16
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 429D332AA43959705CE836D80C9CF9D0.jpg
+
+newmtl CityEngineMaterial_48
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 70A872A2607F805D983669D1E20740D7.jpg
+
+newmtl CityEngineMaterial_147
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_104_floors1_tiles3_day.jpg
+
+newmtl CityEngineMaterial_230
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_246_floors5_tiles3_day.jpg
+
+newmtl CityEngineMaterial_122
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd metallicRoof_8.jpg
+
+newmtl CityEngineMaterial_134
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_253_floors2_tiles4_day.jpg
+
+newmtl CityEngineMaterial_237
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stripes_white_14x14m.jpg
+
+newmtl CityEngineMaterial_163
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_266_floors6_tiles3_day.jpg
+
+newmtl CityEngineMaterial_140
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd metallicRoof_1.jpg
+
+newmtl CityEngineMaterial_132
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd tileRoof_7.jpg
+
+newmtl CityEngineMaterial_62
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ABEA22020F993993C5563439B77A8879.jpg
+
+newmtl CityEngineMaterial_182
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_23_floors60_tiles28_day.jpg
+
+newmtl CityEngineMaterial_211
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_103_floors5_tiles5_day.jpg
+
+newmtl CityEngineMaterial_161
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_107_floors5_tiles3_day.jpg
+
+newmtl CityEngineMaterial_97
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd fac_112_floors14_tiles4_day.jpg
+
+newmtl CityEngineMaterial_78
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 5C23CB09507D081D1F451D9818736616.jpg
+

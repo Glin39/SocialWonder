@@ -596,7 +596,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template3D
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: C:\Users\georg\Desktop\MR_FaceRecognition\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany

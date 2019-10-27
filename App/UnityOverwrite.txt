@@ -5,11 +5,11 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-MR_FaceRecognition.sln: D1E2C823535B30944497DE23A965CC3C
+MR_FaceRecognition.sln: 6951344BCA9D9BFA7A48E93B50A65EC0
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
-MR_FaceRecognition\App.cs: 68582E81EC7764947CEAFCE9057311BE
-MR_FaceRecognition\MR_FaceRecognition.csproj: 1DD5EE756464E1EE76D54DF3AE4E761B
-MR_FaceRecognition\MR_FaceRecognition.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+MR_FaceRecognition\App.cs: modified
+MR_FaceRecognition\MR_FaceRecognition.csproj: 4AE55C50830ECE94185223A51FDCFC01
+MR_FaceRecognition\MR_FaceRecognition.csproj.user: modified
 MR_FaceRecognition\Package.appxmanifest: 01B413640F72D5FB28966A037939C5F6
 MR_FaceRecognition\project.json: 1D02BC64BAC0D041019673A1C4C51737
 MR_FaceRecognition\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
@@ -18,4 +18,12 @@ MR_FaceRecognition\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D56
 MR_FaceRecognition\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
 MR_FaceRecognition\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 MR_FaceRecognition\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+MR_FaceRecognition\bin\x86\Debug\AppX\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
+MR_FaceRecognition\bin\x86\Debug\AppX\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
+MR_FaceRecognition\bin\x86\Debug\AppX\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
+MR_FaceRecognition\bin\x86\Debug\AppX\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
+MR_FaceRecognition\bin\x86\Debug\AppX\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
+MR_FaceRecognition\bin\x86\Debug\AppX\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+MR_FaceRecognition\bin\x86\Debug\AppX\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
+MR_FaceRecognition\obj\x86\Debug\MR_FaceRecognition.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
 MR_FaceRecognition\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826

@@ -24,12 +24,15 @@ public class ImageCapture : MonoBehaviour {
     /// HoloLens class to capture user gestures
     /// </summary>
     private GestureRecognizer recognizer;
+    GameObject star;
     /// <summary>
     /// Initialises this class
     /// </summary>
     private void Awake()
     {
         instance = this;
+        star = GameObject.Find("Star Generator Crazy 1");
+        star.SetActive(false);
     }
 
     /// <summary>
@@ -57,6 +60,7 @@ public class ImageCapture : MonoBehaviour {
     /// </summary>
     private void ExecuteImageCaptureAndAnalysis()
     {
+        star.SetActive(true);
         Resolution cameraResolution = PhotoCapture.SupportedResolutions.OrderByDescending
             ((res) => res.width * res.height).First();
         Texture2D targetTexture = new Texture2D(cameraResolution.width, cameraResolution.height);
@@ -75,6 +79,8 @@ public class ImageCapture : MonoBehaviour {
             {
                 string filename = string.Format(@"CapturedImage{0}.jpg", tapsCount);
                 string filePath = Path.Combine(Application.persistentDataPath, filename);
+                Debug.Log(filePath);
+                Debug.Log(filename);
 
                 // Set the image path on the FaceAnalysis class
                 FaceAnalysis.Instance.imagePath = filePath;
@@ -103,6 +109,7 @@ public class ImageCapture : MonoBehaviour {
 
         // Request image caputer analysis
         StartCoroutine(FaceAnalysis.Instance.DetectFacesFromImage());
+        star.SetActive(false);
     }
 
 

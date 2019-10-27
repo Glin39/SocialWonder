@@ -8,9 +8,8 @@
     <UseEmulator>true</UseEmulator>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
-    <RemoteDebugMachine>143.215.102.50</RemoteDebugMachine>
+    <RemoteDebugMachine>143.215.102.187</RemoteDebugMachine>
     <AuthenticationMode>Universal</AuthenticationMode>
     <RemoteDebugEnabled>true</RemoteDebugEnabled>
-    <UseAuthentication>true</UseAuthentication>
   </PropertyGroup>
 </Project>

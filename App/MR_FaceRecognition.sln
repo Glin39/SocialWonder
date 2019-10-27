@@ -4,8 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.8.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MR_FaceRecognition", "MR_FaceRecognition\MR_FaceRecognition.csproj", "{13A45C13-3265-47B8-BC48-A553B569DF55}"
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d} = {0ddb04e6-be88-46ae-8f51-5492528ea43d}
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj", "{EB735012-00CC-4DCD-9D99-2F1D19E67D49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj", "{0ddb04e6-be88-46ae-8f51-5492528ea43d}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,29 +48,26 @@ Global
 		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.ActiveCfg = Release|x86
 		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.Build.0 = Release|x86
 		{13A45C13-3265-47B8-BC48-A553B569DF55}.Release|x86.Deploy.0 = Release|x86
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Debug|ARM.ActiveCfg = Debug|ARM
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Debug|ARM.Build.0 = Debug|ARM
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Debug|x64.ActiveCfg = Debug|x64
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Debug|x64.Build.0 = Debug|x64
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Debug|x86.ActiveCfg = Debug|x86
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Debug|x86.Build.0 = Debug|x86
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Master|ARM.ActiveCfg = Master|ARM
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Master|ARM.Build.0 = Master|ARM
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Master|x64.ActiveCfg = Master|x64
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Master|x64.Build.0 = Master|x64
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Master|x86.ActiveCfg = Master|x86
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Master|x86.Build.0 = Master|x86
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Release|ARM.ActiveCfg = Release|ARM
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Release|ARM.Build.0 = Release|ARM
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Release|x64.ActiveCfg = Release|x64
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Release|x64.Build.0 = Release|x64
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Release|x86.ActiveCfg = Release|x86
-		{EB735012-00CC-4DCD-9D99-2F1D19E67D49}.Release|x86.Build.0 = Release|x86
-	EndGlobalSection
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Debug|x86.ActiveCfg = Debug|x86
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Debug|x86.Build.0 = Debug|x86
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Release|x86.ActiveCfg = Release|x86
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Release|x86.Build.0 = Release|x86
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Master|x86.ActiveCfg = Master|x86
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Master|x86.Build.0 = Master|x86
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Debug|x64.ActiveCfg = Debug|x64
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Debug|x64.Build.0 = Debug|x64
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Release|x64.ActiveCfg = Release|x64
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Release|x64.Build.0 = Release|x64
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Master|x64.ActiveCfg = Master|x64
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Master|x64.Build.0 = Master|x64
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Debug|ARM.Build.0 = Debug|ARM
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Release|ARM.ActiveCfg = Release|ARM
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Release|ARM.Build.0 = Release|ARM
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Master|ARM.ActiveCfg = Master|ARM
+		{0ddb04e6-be88-46ae-8f51-5492528ea43d}.Master|ARM.Build.0 = Master|ARM
+ EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5FA8CBAF-5EA1-4756-9AED-6288E999CCE3}
 	EndGlobalSection
 EndGlobal

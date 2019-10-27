@@ -233,6 +233,12 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2017.4.1f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="HoloLensCameraStream">
+      <HintPath>Assets/Plugins/HoloLensCameraStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets/Plugins/Newtonsoft/Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
@@ -245,13 +251,36 @@
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Assets/Plugins/Newtonsoft/Newtonsoft.Json.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\DreamStarGenerator\Samples\Scripts\RotatingObject.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\Algorithms\BasicAlgorithm.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\Algorithms\Circle.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\Algorithms\Crazy.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\Algorithms\Curved.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\Algorithms\Pull.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\DreamStarAnimator.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\DreamStarGenerator.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\DreamStarGenerator_Crazy.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\DreamStarGenerator_Curved.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\DreamStarGenerator_Mixer.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\MeshGenerator\MathUtilities.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\MeshGenerator\MeshExporter.cs" />
+    <Compile Include="Assets\DreamStarGenerator\Scripts\MeshGenerator\MeshGenerator.cs" />
+    <Compile Include="Assets\Script\ColorManager.cs" />
+    <Compile Include="Assets\Script\DropdownContentsCount.cs" />
+    <Compile Include="Assets\Script\PaletteApply.cs" />
+    <Compile Include="Assets\Script\ScrollContanetsCount.cs" />
+    <Compile Include="Assets\Script\ScrollSnapRect.cs" />
+    <Compile Include="Assets\Script\SliderValueReciver.cs" />
+    <Compile Include="Assets\Script\SliderValueSender.cs" />
+    <Compile Include="Assets\Script\ToggleSender.cs" />
+    <Compile Include="Assets\Script\ToggleValue.cs" />
     <Compile Include="Assets\Scripts\FaceAnalysis.cs" />
     <Compile Include="Assets\Scripts\ImageCapture.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\DreamStarGenerator\Materials\Shader\MagicStar.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

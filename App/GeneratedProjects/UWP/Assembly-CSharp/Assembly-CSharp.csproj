@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{eb735012-00cc-4dcd-9d99-2f1d19e67d49}</ProjectGuid>
+    <ProjectGuid>{0ddb04e6-be88-46ae-8f51-5492528ea43d}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -131,20 +131,28 @@
   </ItemGroup>
   <ItemGroup>
 
-    <Reference Include="UnityEngine.TilemapModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.TilemapModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.TextRenderingModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.TextRenderingModule.dll</HintPath>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.TerrainModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.TerrainPhysicsModule">
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.TerrainPhysicsModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.TerrainModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.TerrainModule.dll</HintPath>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.TilemapModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.StyleSheetsModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.StyleSheetsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.ScreenCaptureModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.SharedInternalsModule">
@@ -157,10 +165,6 @@
     </Reference>
     <Reference Include="UnityEngine.SpriteShapeModule">
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.SpriteShapeModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.StyleSheetsModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.StyleSheetsModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.UIElementsModule">
@@ -219,8 +223,12 @@
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.UnityWebRequestModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.ScreenCaptureModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.ScreenCaptureModule.dll</HintPath>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.PhysicsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.ARModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule">
@@ -243,12 +251,8 @@
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.CrashReportingModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.DirectorModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.DirectorModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.ARModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.ARModule.dll</HintPath>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.AnimationModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.AccessibilityModule">
@@ -259,12 +263,12 @@
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.AIModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.AnimationModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.AnimationModule.dll</HintPath>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.DirectorModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.dll</HintPath>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.JSONSerializeModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.ParticlesLegacyModule">
@@ -283,12 +287,12 @@
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.Physics2DModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.PhysicsModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.PhysicsModule.dll</HintPath>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.InputModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.JSONSerializeModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.JSONSerializeModule.dll</HintPath>
+    <Reference Include="UnityEngine">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.GameCenterModule">
@@ -307,16 +311,16 @@
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.IMGUIModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.InputModule">
-      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.InputModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="WinRTLegacy">
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\WinRTLegacy.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.Timeline">
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.Timeline.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="HoloLensCameraStream">
+      <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\HoloLensCameraStream.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="nunit.framework">
@@ -357,6 +361,75 @@
     <SDKReference Include="WindowsTeam, Version=10.0.17134.0"/>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Samples\Scripts\RotatingObject.cs">
+      <Link>DreamStarGenerator\Samples\Scripts\RotatingObject.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\Algorithms\BasicAlgorithm.cs">
+      <Link>DreamStarGenerator\Scripts\Algorithms\BasicAlgorithm.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\Algorithms\Circle.cs">
+      <Link>DreamStarGenerator\Scripts\Algorithms\Circle.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\Algorithms\Crazy.cs">
+      <Link>DreamStarGenerator\Scripts\Algorithms\Crazy.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\Algorithms\Curved.cs">
+      <Link>DreamStarGenerator\Scripts\Algorithms\Curved.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\Algorithms\Pull.cs">
+      <Link>DreamStarGenerator\Scripts\Algorithms\Pull.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\DreamStarAnimator.cs">
+      <Link>DreamStarGenerator\Scripts\DreamStarAnimator.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\DreamStarGenerator.cs">
+      <Link>DreamStarGenerator\Scripts\DreamStarGenerator.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\DreamStarGenerator_Crazy.cs">
+      <Link>DreamStarGenerator\Scripts\DreamStarGenerator_Crazy.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\DreamStarGenerator_Curved.cs">
+      <Link>DreamStarGenerator\Scripts\DreamStarGenerator_Curved.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\DreamStarGenerator_Mixer.cs">
+      <Link>DreamStarGenerator\Scripts\DreamStarGenerator_Mixer.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\MeshGenerator\MathUtilities.cs">
+      <Link>DreamStarGenerator\Scripts\MeshGenerator\MathUtilities.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\MeshGenerator\MeshExporter.cs">
+      <Link>DreamStarGenerator\Scripts\MeshGenerator\MeshExporter.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\DreamStarGenerator\Scripts\MeshGenerator\MeshGenerator.cs">
+      <Link>DreamStarGenerator\Scripts\MeshGenerator\MeshGenerator.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Script\ColorManager.cs">
+      <Link>Script\ColorManager.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Script\DropdownContentsCount.cs">
+      <Link>Script\DropdownContentsCount.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Script\PaletteApply.cs">
+      <Link>Script\PaletteApply.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Script\ScrollContanetsCount.cs">
+      <Link>Script\ScrollContanetsCount.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Script\ScrollSnapRect.cs">
+      <Link>Script\ScrollSnapRect.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Script\SliderValueReciver.cs">
+      <Link>Script\SliderValueReciver.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Script\SliderValueSender.cs">
+      <Link>Script\SliderValueSender.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Script\ToggleSender.cs">
+      <Link>Script\ToggleSender.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Script\ToggleValue.cs">
+      <Link>Script\ToggleValue.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\FaceAnalysis.cs">
       <Link>Scripts\FaceAnalysis.cs</Link>
     </Compile>

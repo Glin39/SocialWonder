@@ -1,0 +1,2078 @@
+newmtl PorscheMaterial_3SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.59 0.59 0.59
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd PorcheY.png
+map_d PorcheY.png
+
+newmtl lwpg010SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.01 0.01 0.01
+Ns 73
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_10
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 07D590C3EAAEEF7BFEDB1DB11E4AF468.jpg
+
+newmtl lwpg002SG1
+illum 4
+Ka 0.06 0.03 0.13
+Kd 0.843137 0.843137 0.843137
+Ks 0.13 0.13 0.13
+Ns 88
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_45
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 4135824391E3D15C3D9C371EE2EAEE0B.jpg
+
+newmtl CityEngineMaterial_52
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd A64A82AE4E3F7B97C58E4C4808871BB3.jpg
+
+newmtl CityEngineMaterial_88
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 34D6757DC8C05321C989E768F81956B8.jpg
+
+newmtl CityEngineMaterial_57
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ACE04C2C349DF60C5041D923C780B532.jpg
+
+newmtl CityEngineMaterial_49
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 155027B639B931383C025783D48F41B1.jpg
+
+newmtl CityEngineMaterial_101
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 3F8C8CDA5D1FDBD129BA91A5E3648BFB.jpg
+
+newmtl CityEngineMaterial_42
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd C8859E7CF62DA9A26300F0757C1E0215.jpg
+
+newmtl CityEngineMaterial_118
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_strip_14x14m.jpg
+
+newmtl lambert_car_15SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.55 0.55 0.55
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg015.png
+map_d lwpg015.png
+
+newmtl CityEngineMaterial_22
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 5D8DD5187344FD9AB2DA08682A9726D4.jpg
+
+newmtl CityEngineMaterial_111
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd B84B6EAE5338C19048339B9CD5928A91.jpg
+
+newmtl lwpg012SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.01 0.01 0.01
+Ns 73
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_112
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd asphalt_14x14m.jpg
+
+newmtl CityEngineMaterial_104
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 36CFDFA56DF02F0247954BFEAB296239.jpg
+
+newmtl CityEngineMaterial_129
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_sides_4_14x14m.jpg
+
+newmtl CityEngineMaterial_29
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 401EAAE98BFD29B906D68A2A7DBDB76C.jpg
+
+newmtl lwpg106
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.73 0.73 0.73
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg106d.jpg
+
+newmtl CityEngineMaterial_120
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ParallelParkRear.jpg
+
+newmtl nypd1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.3 0.3 0.3
+Ns 1
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd german.png
+map_d german.png
+
+newmtl CityEngineMaterial_96
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 75F1BE3A3CA0CE2B70AFCF2201307BF3.jpg
+
+newmtl lambert_car_4SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.6 0.6 0.6
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg004.png
+map_d lwpg004.png
+
+newmtl CityEngineMaterial_65
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 8CDAECD95A33F839ACEDFED2C4BB736D.jpg
+
+newmtl lambert_car_13SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.62 0.62 0.62
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg013.png
+map_d lwpg013.png
+
+newmtl CityEngineMaterial_33
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 50732E197C8A4BF433046E941BC189EB.jpg
+
+newmtl CityEngineMaterial_126
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stripes_white_14x14m.jpg
+
+newmtl CityEngineMaterial_7
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd F3FDC671A4A7A51ABF3B198F114C2923.jpg
+
+newmtl CityEngineMaterial_132
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd AngledParking.jpg
+
+newmtl CityEngineMaterial_23
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 09FB8F5A91B4BB18E54B7332C4314A22.jpg
+
+newmtl CityEngineMaterial_36
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 206414D705F306D5A8D3BF4E14F6FBE8.jpg
+
+newmtl BMW_Material_4SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.79 0.79 0.79
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd bmw4.png
+map_d bmw4.png
+
+newmtl CityEngineMaterial_81
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 2B11D271295760E7F34968E38A584E46.jpg
+
+newmtl CityEngineMaterial_3
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd EE796EDD70F32ECC0C96521DA9EB67FF.jpg
+
+newmtl CityEngineMaterial_67
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 1D0207544BC010CD53EE00C22106B5F8.jpg
+
+newmtl CityEngineMaterial_115
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd Drainage_Side.jpg
+
+newmtl CityEngineMaterial_113
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd curbs_2m.jpg
+
+newmtl CityEngineMaterial_116
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd asphalt_painted_white_7x7m.jpg
+
+newmtl lambert_car_12SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.65 0.65 0.65
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg012.png
+map_d lwpg012.png
+
+newmtl CityEngineMaterial_20
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd D99B19474F12A8171499C6B4E230260C.jpg
+
+newmtl CityEngineMaterial_50
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd A5900060B87E00262576C730238DF521.jpg
+
+newmtl CityEngineMaterial_108
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 3549D738D98262475F932EEAE83AD625.jpg
+
+newmtl lwpg102
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.58 0.58 0.58
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg102d.jpg
+
+newmtl CityEngineMaterial_114
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd Concrete Clean Light.jpg
+
+newmtl lwpg004SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.68 0.68 0.68
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_1
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 30BBFCBE646656427994820C905EEE54.jpg
+
+newmtl CityEngineMaterial_134
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_sides_1_14x14m.jpg
+
+newmtl CityEngineMaterial_110
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 82F103F4300F05EA1947B6815F56F6AB.jpg
+
+newmtl PorscheMaterial_2SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.65 0.65 0.65
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd PorcheB.png
+map_d PorcheB.png
+
+newmtl CityEngineMaterial_79
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 8A2487D5D4CCD737E4B88823ABD39073.jpg
+
+newmtl CityEngineMaterial_25
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 41631955FB13788AA2A4EBC2311D8FFF.jpg
+
+newmtl CityEngineMaterial_68
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 95CC3CB8D02EEE2DA97A19C9AACE3F94.jpg
+
+newmtl CityEngineMaterial_136
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_47
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd A967C74114AF9CC6FD89904302D8629D.jpg
+
+newmtl CityEngineMaterial
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 43DF8D938C21739F49A91C311779BF95.jpg
+
+newmtl CityEngineMaterial_6
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 159A51A6BABE5620DD2BB8467DF7B128.jpg
+
+newmtl CityEngineMaterial_130
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_all_1_14x14m.jpg
+
+newmtl lambert_car_9SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.6 0.6 0.6
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg009.png
+map_d lwpg009.png
+
+newmtl CityEngineMaterial_121
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ParallelParkMid.jpg
+
+newmtl CityEngineMaterial_9
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 7315A217E3523DD134BB3052FA82C357.jpg
+
+newmtl CityEngineMaterial_98
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 2627777279FF8545BA40AAD9654F3916.jpg
+
+newmtl lwpg011SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.01 0.01 0.01
+Ns 73
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl lambert_car_7SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.56 0.56 0.56
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg007.png
+map_d lwpg007.png
+
+newmtl CityEngineMaterial_83
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 43F8F931BEC3BE23EE0F6FEDF526D950.jpg
+
+newmtl CityEngineMaterial_74
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 1D9364903A3FE6AAEB804F39F1679F6E.jpg
+
+newmtl CityEngineMaterial_82
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd A85D80AFD0CEC6174E4EB2EE1D98FBBB.jpg
+
+newmtl CityEngineMaterial_70
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 353A4E2131C8158E479E671D13A9244C.jpg
+
+newmtl CityEngineMaterial_63
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd D36DDCDDF4875F437A1F57178AA337AE.jpg
+
+newmtl lwpg006SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.32 0.32 0.32
+Ns 21.12
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_128
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_sides_1_14x14m.jpg
+
+newmtl CityEngineMaterial_34
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd B46B00D5C7762FA290775D7B52E69D24.jpg
+
+newmtl lwpg009SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.01 0.01 0.01
+Ns 73
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_18
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 05B878B237363C8207BDA6F50B3B6CBA.jpg
+
+newmtl lwpg109
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.75 0.75 0.75
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg109d.jpg
+
+newmtl CityEngineMaterial_135
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_right_3_14x14m.jpg
+
+newmtl CityEngineMaterial_27
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 97F8C6E75D9621DB3AFC8CDDEC68BFA3.jpg
+
+newmtl CityEngineMaterial_80
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd AB31736D173CD6898AB2179DD5C72700.jpg
+
+newmtl lambert_car_14SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.63 0.63 0.63
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg014.png
+map_d lwpg014.png
+
+newmtl CityEngineMaterial_51
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 4FA70BA6978F56782D2761FF855C3FB6.jpg
+
+newmtl BMW_Material_3SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.82 0.82 0.82
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd bmw3.png
+map_d bmw3.png
+
+newmtl CityEngineMaterial_37
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 0A6512012855D2BB4DE45196E4941923.jpg
+
+newmtl CityEngineMaterial_87
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd C085DF1809529C4ACD904213B53D0E97.jpg
+
+newmtl CityEngineMaterial_127
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd asphalt_painted_yellow_7x7m.jpg
+
+newmtl CityEngineMaterial_26
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd A1A86DC552507A8528A8F438A8E84948.jpg
+
+newmtl CityEngineMaterial_73
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 473B91736302B9003AAD6B27E0B86C9A.jpg
+
+newmtl lwpg104
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.69 0.69 0.69
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg104d.jpg
+
+newmtl CityEngineMaterial_43
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 3C6545E00A699012AD1E4797623BC06A.jpg
+
+newmtl CityEngineMaterial_35
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 2D0A8671C7C6A3C1F8F4A7929D19DC87.jpg
+
+newmtl CityEngineMaterial_41
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 86BE20D65C23FB6A13F02D2018B93281.jpg
+
+newmtl CityEngineMaterial_2
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 00995B823E6CBF54FC1575708F9F314C.jpg
+
+newmtl lambert_car_3SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.62 0.62 0.62
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg003.png
+map_d lwpg003.png
+
+newmtl lwpg110
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.72 0.72 0.72
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg110d.jpg
+
+newmtl BMW_Material_5SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.77 0.77 0.77
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd bmw5.png
+map_d bmw5.png
+
+newmtl CityEngineMaterial_124
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd asphalt_painted_green_7x7m.jpg
+
+newmtl CityEngineMaterial_15
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 5700D3884E83EAE567CB723F24A6AA19.jpg
+
+newmtl CityEngineMaterial_109
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd F7EF3E9687D27CE2CA197FD03322D6F7.jpg
+
+newmtl CityEngineMaterial_30
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 69DB1BBBAA1D4A2949E6D4EEAE2DDB51.jpg
+
+newmtl CityEngineMaterial_62
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 6C1D8689DECF7A10F9E7B78A09492CFF.jpg
+
+newmtl CityEngineMaterial_102
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd F9623ED3376A8794F7C28EE536AC691E.jpg
+
+newmtl CityEngineMaterial_125
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd street_1bike_green_stamp.jpg
+
+newmtl CityEngineMaterial_24
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd BF4CC9F05034442A0DAC8674AA872628.jpg
+
+newmtl CityEngineMaterial_8
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd C491A986550FAF16712728852D13993D.jpg
+
+newmtl lambert_car_11SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.55 0.55 0.55
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg011.png
+map_d lwpg011.png
+
+newmtl lwpg001SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.7 0.7 0.7
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_53
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd E5428849D1CACC6B81E832C9F1E877F6.jpg
+
+newmtl CityEngineMaterial_40
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 57F3E1DB0066025482E05B54C3D370F4.jpg
+
+newmtl CityEngineMaterial_86
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 98531CF95CB5E8CD5286014ABF1428AD.jpg
+
+newmtl CityEngineMaterial_76
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 460C4715C9E41221A106E9669FB8F8AF.jpg
+
+newmtl CityEngineMaterial_94
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd AA748D5DBF4951B37533F8B89DFA94DC.jpg
+
+newmtl CityEngineMaterial_60
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 89719411EFD1870D5E6B4F08C6C1C9E1.jpg
+
+newmtl lwpg105
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.72 0.72 0.72
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg105d.jpg
+
+newmtl CityEngineMaterial_64
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd D9DE7F15B15436F69E8DDD717241183A.jpg
+
+newmtl lwpg005SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.44 0.44 0.44
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_89
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd FBCE2EC5A51E6F77567E7A20D84CD8B8.jpg
+
+newmtl lambert_car_10SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.59 0.59 0.59
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg010.png
+map_d lwpg010.png
+
+newmtl CityEngineMaterial_19
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 32F23C54907E95928B41619EB587AE20.jpg
+
+newmtl BMW_Material_2SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.78 0.78 0.78
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd bmw2.png
+map_d bmw2.png
+
+newmtl CityEngineMaterial_91
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 1D322DF4F2D157B19BEF8A70D8ABFF77.jpg
+
+newmtl CityEngineMaterial_122
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ParallelParkFront.jpg
+
+newmtl lwpg103
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.74 0.74 0.74
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg103d.jpg
+
+newmtl CityEngineMaterial_107
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd E9D5A46B1B1F97F3B282ABE3A7EF0AAE.jpg
+
+newmtl CityEngineMaterial_95
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd A4524ACC80816653E6E871FA97C15C57.jpg
+
+newmtl CityEngineMaterial_137
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd unknownasset.png
+
+newmtl lwpg013SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.01 0.01 0.01
+Ns 73
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_90
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 3572A0F00A31304E90DF3FFC2843BBA8.jpg
+
+newmtl lwpg014SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.01 0.01 0.01
+Ns 73
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_31
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 793071492013A9E59ABB4E77EC3421C1.jpg
+
+newmtl lwpg008SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.01 0.01 0.01
+Ns 73
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_97
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 3F4562B389BC17206B18440F9066797F.jpg
+
+newmtl CityEngineMaterial_39
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd ACEF9A7158F5BC49AE96D7CE6C518EB3.jpg
+
+newmtl CityEngineMaterial_55
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 5878DCCDE1BA467BB72B02DB8E66B2FF.jpg
+
+newmtl lambert2SG_1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.71 0.71 0.71
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg001.png
+map_d lwpg001.png
+
+newmtl CityEngineMaterial_16
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd EF18FE508D10CEF984B7662C43ACEAFC.jpg
+
+newmtl CityEngineMaterial_4
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd B4BE1FABBA800A3E4E6212A97904B10D.jpg
+
+newmtl CityEngineMaterial_11
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd EB6CCD899747CA5EE6B4221FD1F4C5F7.jpg
+
+newmtl CityEngineMaterial_61
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd E77594EE49560E5CB104523949844FBE.jpg
+
+newmtl CityEngineMaterial_100
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 983001ED32DE00667AB1A1107B724CB7.jpg
+
+newmtl CityEngineMaterial_93
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 60645C959D242F11B55986B0100EE2C6.jpg
+
+newmtl CityEngineMaterial_38
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 4012F63C3BE22E02F54792BA406BB330.jpg
+
+newmtl CityEngineMaterial_71
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd EA848FE1B7E36951C153693BDB0515F9.jpg
+
+newmtl cars_lwpg34
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.73 0.73 0.73
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd bmw1.png
+map_d bmw1.png
+
+newmtl lambert_car_5SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.65 0.65 0.65
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg005.png
+map_d lwpg005.png
+
+newmtl CityEngineMaterial_48
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 29D60F8B84E363F36DA5DCECE9DFBD7D.jpg
+
+newmtl CityEngineMaterial_69
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 5BC2E03533A016F3F3DFB1F213D95BCD.jpg
+
+newmtl CityEngineMaterial_123
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd street_1bike_buffer2.jpg
+
+newmtl CityEngineMaterial_28
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd E60A333FA32AC7BD52FDB6F8EC5C20EB.jpg
+
+newmtl CityEngineMaterial_117
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd centerline_double_yellow_14m.jpg
+
+newmtl lwpg003SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.13 0.13 0.13
+Ns 88
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_21
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 883C577A8E15E26BCC35509FABAC4502.jpg
+
+newmtl lambert_car_6SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.57 0.57 0.57
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg006.png
+map_d lwpg006.png
+
+newmtl CityEngineMaterial_75
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 2BA5BED9AEDAB1D69E539C5D5FC98DB9.jpg
+
+newmtl CityEngineMaterial_77
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 40D663F40FA83B7D105A1EB377B7852A.jpg
+
+newmtl lambert_car_8SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.6 0.6 0.6
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg008.png
+map_d lwpg008.png
+
+newmtl CityEngineMaterial_84
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 7659DB41E3C900E1919DDA3A6DAE3D75.jpg
+
+newmtl CityEngineMaterial_119
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_word_14x14m.jpg
+
+newmtl CityEngineMaterial_72
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd D4D4E4A7335B829A1A92F9B536840643.jpg
+
+newmtl CityEngineMaterial_44
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd D54E1DB637139679CCAEBD7A53D477FE.jpg
+
+newmtl CityEngineMaterial_103
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 6BF45534D85EA70625356D820D95DF80.jpg
+
+newmtl CityEngineMaterial_46
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd B2594C424A0ECDF9F0FDF9DFE7D3E74A.jpg
+
+newmtl CityEngineMaterial_56
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd C22DC27C0795FB2E0AD9C75C3D541C05.jpg
+
+newmtl lwpg107
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.58 0.58 0.58
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg107d.jpg
+
+newmtl lambert3SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.64 0.64 0.64
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd Porche.png
+map_d Porche.png
+
+newmtl CityEngineMaterial_99
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 96FE6017CC6CDA9C474D29A5F3C96351.jpg
+
+newmtl CityEngineMaterial_66
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 93F56AB6E751268AD6CD544539133B7D.jpg
+
+newmtl CityEngineMaterial_17
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 046A10888BB06A327B5748822A950909.jpg
+
+newmtl CityEngineMaterial_78
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd DBB0E351166E40B5677138A7029DB116.jpg
+
+newmtl CityEngineMaterial_131
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_all_2_14x14m.jpg
+
+newmtl CityEngineMaterial_133
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_right_1_14x14m.jpg
+
+newmtl CityEngineMaterial_85
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 177547D43FC0C29F56E015F6186AAF6F.jpg
+
+newmtl lwpg108
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.67 0.67 0.67
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg108d.jpg
+
+newmtl CityEngineMaterial_106
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 7EBF62A61DEA55E0A112046ADF3C82A4.jpg
+
+newmtl lwpg015SG1
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_32
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd B42D5526AFFAB4F3CBA0528F576A740F.jpg
+
+newmtl CityEngineMaterial_54
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 91D6C8E2EA1F04988A109184501E451E.jpg
+
+newmtl CityEngineMaterial_58
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 75D4C17AC28C2783314F505B4B72727D.jpg
+
+newmtl CityEngineMaterial_13
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd C472CC9DBBB4C5C11DC555F7D59F59AF.jpg
+
+newmtl german1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.65 0.65 0.65
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd nypd.png
+map_d nypd.png
+
+newmtl CityEngineMaterial_5
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd E7A0FCBA16C25E0A75B1F616B3B836C7.jpg
+
+newmtl CityEngineMaterial_14
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 5D5603FF3D893D59AA025E37D447EC76.jpg
+
+newmtl lambert_car_2SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.75 0.75 0.75
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lwpg002.png
+map_d lwpg002.png
+
+newmtl CityEngineMaterial_12
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd A632B54DD793EA59CB8947AE4236FC5B.jpg
+
+newmtl CityEngineMaterial_105
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 09511C342842B8CA9E82DE83D6595C91.jpg
+
+newmtl lambert2SG
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.56 0.56 0.56
+Ns 13
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd shelby.png
+map_d shelby.png
+
+newmtl lwpg007SG1
+illum 4
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0.36 0.36 0.36
+Ns 21.78
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_59
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd E18EA15CC1471DA6A0FBEED84B18DD78.jpg
+
+newmtl CityEngineMaterial_92
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd 273DFEA764C3CF40CEE761E098F9A345.jpg
+

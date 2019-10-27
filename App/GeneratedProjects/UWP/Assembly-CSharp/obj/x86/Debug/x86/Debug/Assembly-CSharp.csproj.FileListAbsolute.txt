@@ -1,8 +1,8 @@
+C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.dll
 C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pdb
 C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pri
-C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.dll
 C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.pdb
 C:\Users\georg\Desktop\MR_FaceRecognition\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml
